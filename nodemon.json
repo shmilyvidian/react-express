@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONDO_DB": "react-graqhql-mongod",
+        "MONGO_URL": "mongodb://localhost:27017/react-graqhql-mongod"
+    }    
+}
